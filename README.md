@@ -62,9 +62,7 @@ B.Tech. in IT · CGPA: 7.3/10
 ![Languages](https://img.shields.io/badge/Code-Golang%20%7C%20Node.js%20%7C%20Python%20%7C%20TS-blue)
 ![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange)
 ![Tools](https://img.shields.io/badge/Tools-Docker%20%7C%20CI%2FCD%20%7C%20LangChain-green)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rutwikpatel08)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rutwikpatel08\&show_icons=true\&theme=radical)
 
 ---
 
