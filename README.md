@@ -2,8 +2,6 @@
 
 > Software Engineer who loves building **cool, reliable, and scalable things**. With 5+ years of backend experience—across payments, infra, AI-chatbots, and online judges—I focus on shipping products that users love and systems that engineers can trust. Always curious, always learning (currently exploring **mobile development** 📱).
 
-Fun fact: I’m **not from IIT but NIT… wait wait, Nirma Institute of Technology, Ahmedabad** 🎓.
-
 ---
 
 ## 🛠️ What I’m Good At
