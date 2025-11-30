@@ -1,7 +1,7 @@
 # Hi there, I’m Rutwik Patel 👋
 
 > Software Engineer who loves building **cool, reliable, and scalable things**. With 5+ years of backend experience—across payments, infra, AI-chatbots, and online judges—I focus on shipping products that users love and systems that engineers can trust. Always curious, always learning (currently exploring **mobile development** 📱).
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rrutwik.githubprofile)
 ---
 
 ## 🛠️ What I’m Good At
